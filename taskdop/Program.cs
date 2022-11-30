@@ -1,4 +1,4 @@
-﻿// task dop
+﻿// task dop "второй максимум"
 
 Console.Clear();
 Console.Write("Введите число: ");
